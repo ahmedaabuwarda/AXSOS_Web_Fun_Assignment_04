@@ -1,4 +1,4 @@
-# Registration Form Assignment 03
+# Registration Form Assignment 04
 
 A simple HTML registration form created as part of the AXSOS Web Fundamentals course (Week 03, Lecture 04).
 
